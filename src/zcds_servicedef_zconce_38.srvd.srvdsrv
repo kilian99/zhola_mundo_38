@@ -1,0 +1,4 @@
+@EndUserText.label: 'Service definition'
+define service ZCDS_SERVICEDEF_ZCONCE_38 {
+  expose ZCDS_DD_ZCONCE_38;
+}
